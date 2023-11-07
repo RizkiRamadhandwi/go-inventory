@@ -22,9 +22,9 @@ Aplikasi ini tidak memerlukan instalasi khusus. Pastikan Anda telah menginstal G
 2. Arahkan ke direktori aplikasi menggunakan perintah `cd /path/to/your/app`.
 3. Jalankan aplikasi dalam terminal dengan perintah `go build`.
 4. Setelah itu terdapat file go-inventory.exe
-5. lalu buka terminal `./go-inventory`
+5. lalu buka file aplikasi tersebut atau buka terminal `./go-inventory` 
 
-## Penggunaan
+## Penggunaans
 
 ### Menu Utama
 
